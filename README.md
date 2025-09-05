@@ -17,4 +17,4 @@
 ![Learn](https://skillicons.dev/icons?i=astro,supabase,ts,react,docker,py)
 
 **I have used:** <br>
-![My Skills](https://skillicons.dev/icons?i=github,figma,postman,vscode,linux,arch,rasperrypi,ubuntu,gatsby,vercel,notion,kali,replit,robloxstudio,unity)
+![My Skills](https://skillicons.dev/icons?i=github,figma,postman,vscode,linux,arch,raspberrypi,ubuntu,gatsby,vercel,notion,kali,replit,robloxstudio,unity)
