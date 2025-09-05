@@ -17,4 +17,4 @@
 ![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,supabase,ts,react,docker,aws,py&theme=dark)
 
 **I have used:** <br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,figma,postman,vscode,processing,cursor,linux,arch,raspberrypi,ubuntu,gatsby,framer,arcbrowser,vercel,notion,d3,kali,replit,robloxstudio,unity&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,figma,postman,vscode,processing,cursor,linux,arch,raspberrypi,ubuntu,gatsby,framer,arcbrowser,vercel,notion,kali,replit,robloxstudio,unity&theme=dark)
