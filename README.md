@@ -11,6 +11,10 @@
    Never leave the Terminal </>
 
 **I'am using:**
-![Using](https://skillicons.dev/icons?i=swift,stackoverflow,jetbrains)
+![Using](https://skillicons.dev/icons?i=swift,stackoverflow,obsidian,discord)
+
+**I want to learn:**
+![Learn](https://skillicons.dev/icons?i=astro,supabase,ts,react,docker,py)
+
 **I have used:** <br>
-![My Skills](https://skillicons.dev/icons?i=github,figma,postman,vscode,linux,arch,vercel,)
+![My Skills](https://skillicons.dev/icons?i=github,figma,postman,vscode,linux,arch,rasberrypi,ubuntu,gatsby,vercel,notion,kali,replit,robloxstudio,unity)
