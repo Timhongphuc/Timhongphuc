@@ -14,7 +14,7 @@
 ![Using](https://go-skill-icons.vercel.app/api/icons?i=swift,stackoverflow,obsidian,discord&theme=dark)
 
 **I want to learn:** <br>
-![Learn]([https://skillicons.dev/icons?i=](https://go-skill-icons.vercel.app/api/icons?i=)astro,supabase,ts,react,docker,py&theme=dark)
+![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,supabase,ts,react,docker,py&theme=dark)
 
 **I have used:** <br>
-![My Skills]([https://skillicons.dev/icons?i=](https://go-skill-icons.vercel.app/api/icons?i=)github,figma,postman,vscode,linux,arch,raspberrypi,ubuntu,gatsby,vercel,notion,kali,replit,robloxstudio,unity&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,figma,postman,vscode,linux,arch,raspberrypi,ubuntu,gatsby,vercel,notion,kali,replit,robloxstudio,unity&theme=dark)
