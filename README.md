@@ -10,10 +10,10 @@
 -->
    Never leave the Terminal </>
 
-**I'am using:**
+**I'am using:** <br>
 ![Using](https://skillicons.dev/icons?i=swift,stackoverflow,obsidian,discord)
 
-**I want to learn:**
+**I want to learn:** <br>
 ![Learn](https://skillicons.dev/icons?i=astro,supabase,ts,react,docker,py)
 
 **I have used:** <br>
