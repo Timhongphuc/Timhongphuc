@@ -11,4 +11,4 @@
    Never leave the Terminal </>
 
 **I have used:** <br>
-[![My Skills](https://skillicons.dev/icons?i=github,figma,postman,vscode,linux,arch,vercel,)]
+![My Skills](https://skillicons.dev/icons?i=github,figma,postman,vscode,linux,arch,vercel,)
