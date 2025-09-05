@@ -2,7 +2,7 @@
 ## My name is Tim Seufert
 
 - 🔭 I’m currently working on some personal projects (More on this later!)
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift (and some Networking Stuff)
 - 💬 Ask me about anything 
 - 📫 How to reach me: https://timhongphuc.de
 - 😄 Pronouns: he/him
