@@ -11,7 +11,7 @@
    Never leave the Terminal </>
 
 **I'am using:** <br>
-![Using](https://skillicons.dev/icons?i=swift,stackoverflow,obsidian,discord)
+![Using](https://go-skill-icons.vercel.app/api/icons?i=swift,stackoverflow,obsidian,discord&theme=dark)
 
 **I want to learn:** <br>
 ![Learn](https://skillicons.dev/icons?i=astro,supabase,ts,react,docker,py)
