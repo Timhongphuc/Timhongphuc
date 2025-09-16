@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on some personal projects -> Take a look at my Repos/Website...
 - 🌱 I’m currently learning Swift (and some Networking Stuff)
-- 💬 Ask me about anything 
+-
+ 💬 Ask me about anything 
 - 📫 How to reach me: https://timhongphuc.de
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
@@ -14,7 +15,7 @@
 ![Using](https://go-skill-icons.vercel.app/api/icons?i=swift,xcode,fleet,stackoverflow,reddit,obsidian,warp,gemini,discord,slack&theme=dark)
 
 **I want to learn:** <br>
-![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,supabase,ts,react,docker,aws,py&theme=dark
+![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,supabase,ts,react,docker,aws,py,golang&theme=dark
 )
 
 **I have used:** <br>
