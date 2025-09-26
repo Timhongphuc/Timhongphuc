@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on some personal projects -> Take a look at my Repos/Website...
 - 🌱 I’m currently learning Swift (and some Networking Stuff)
--
- 💬 Ask me about anything 
+- 💬 Ask me about anything 
 - 📫 How to reach me: https://timhongphuc.de
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
