@@ -18,4 +18,4 @@
 )
 
 **I have used:** <br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,figma,postman,vscode,hyper,processing,cursor,arch,raspberrypi,ubuntu,gatsby,framer,arcbrowser,vercel,notion,kali,replit,robloxstudio&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,figma,postman,vscode,shapr3d,processing,cursor,arch,raspberrypi,ubuntu,gatsby,framer,arcbrowser,vercel,notion,kali,replit,robloxstudio&theme=dark)
