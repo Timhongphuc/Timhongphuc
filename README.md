@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on some personal projects -> Take a look at my Repos/Website...
 - 🌱 I’m currently learning Swift (and some Networking Stuff like async/await...)
 - 💬 Ask me about anything 
-- 📫 How to reach me: https://timhongphuc.de
+- 📫 How to reach me: https://timhongphuc.de or via HackClub Slack @Timhongphuc
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 -->
