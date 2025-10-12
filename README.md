@@ -11,7 +11,7 @@
    Never leave the Terminal </>
 
 **I'am using:** <br>
-![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,swift,xcode,fleet,stackoverflow,reddit,obsidian,warp,gemini,discord,slack&theme=dark)
+![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,pycharm,goland,swift,xcode,fleet,stackoverflow,obsidian,warp,slack&theme=dark)
 
 **I want to learn:** <br>
 ![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,supabase,ts,react,docker,aws,py,golang&theme=dark
