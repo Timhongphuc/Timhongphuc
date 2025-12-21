@@ -2,7 +2,7 @@
 ## My name is Tim Seufert
 
 - 🔭 I’m currently working on some personal projects -> Take a look at my Repos/Website...
-- 🌱 I’m currently learning Swift (and some Networking Stuff like async/await...)
+- 🌱 I’m currently learning Python and Swift (and some API Stuff like async/await...)
 - 💬 Ask me about anything 
 - 📫 How to reach me: https://timhongphuc.de or via HackClub Slack @Timhongphuc
 - 😄 Pronouns: he/him
