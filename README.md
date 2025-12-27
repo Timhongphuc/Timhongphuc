@@ -11,10 +11,10 @@
    Never leave the Terminal >_
 
 **I'am using:** <br>
-![Using](https://go-skill-icons.vercel.app/api/icons?i=pycharm,apple,swift,xcode,vscode,github,postman,stackoverflow,obsidian,warp,slack,vercel&theme=dark)
+![Using](https://go-skill-icons.vercel.app/api/icons?i=py,pycharm,apple,swift,xcode,vscode,github,postman,stackoverflow,obsidian,warp,slack,vercel&theme=dark)
 
 **I want to learn:** <br>
-![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,supabase,ts,react,docker,aws,py,golang&theme=dark)
+![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,supabase,ts,react,docker,aws,golang&theme=dark)
 
 **I have used:** <br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,linux,ollama,processing,raspberrypi,ubuntu,arch,notion,windows,replit&theme=dark)
