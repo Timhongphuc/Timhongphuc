@@ -16,5 +16,5 @@
 **I want to learn:** <br>
 ![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,supabase,ts,react,docker,aws,golang&theme=dark)
 
-**My coding stats:** <br>
+**My coding stats (since 03. October 2025):** <br>
 ![Waka-/Hakatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=1103&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=blue-green)
