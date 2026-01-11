@@ -7,8 +7,8 @@
 - 📫 How to reach me: https://timhongphuc.de or via HackClub Slack @Timhongphuc
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
--->
-   Never leave the Terminal >_
+--> Never leave the Terminal >_
+- My Principle (when it comes to shipping projects): "Quality > Quantity"
 
 **I'am using:** <br>
 ![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,py,pycharm,swift,xcode,vscode,github,postman,obsidian,warp,slack,vercel,render&theme=dark)
