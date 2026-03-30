@@ -9,6 +9,7 @@
 - ⚡ Fun fact: 
 --> Never leave the Terminal >_
 - My Principle (when it comes to shipping projects): "Quality > Quantity"
+- My quote of the day: "Stay curious. Never settle."
 
 **I'am using:** <br>
 ![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,py,pycharm,swift,xcode,vscode,github,postman,obsidian,slack,vercel,render,gemini&theme=dark)
