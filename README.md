@@ -9,15 +9,14 @@
 - ⚡ Fun fact: 
 --> Never leave the Terminal >_
 - My Principle (when it comes to shipping projects): "Quality > Quantity"
-- My quote of the day: "Stay curious. Never settle."
 
 **I'am using:** <br>
 ![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,py,pycharm,swift,xcode,vscode,github,postman,obsidian,slack,vercel,render,gemini&theme=dark)
 
 **I'am learning:** <br>
-![Learn](https://go-skill-icons.vercel.app/api/icons?i=html,js,css,supabase,java&theme=dark)
+![Learn](https://go-skill-icons.vercel.app/api/icons?i=supabase,java&theme=dark)
 
 **I want to learn:** <br>
-![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,ts,react,docker,aws,golang&theme=dark)
+![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,ts,react,docker,aws,golang,html,js,css&theme=dark)
 
-
+Stay curious. Never settle.
