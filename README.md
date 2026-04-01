@@ -19,4 +19,6 @@
 **I want to learn:** <br>
 ![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,ts,react,docker,aws,golang,html,js,css&theme=dark)
 
-Stay curious. Never settle.
+--------------------------------
+
+### Stay curious. Never settle.
