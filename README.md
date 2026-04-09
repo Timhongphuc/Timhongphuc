@@ -12,10 +12,10 @@
 ![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,py,pycharm,swift,xcode,vscode,github,postman,obsidian,slack,vercel,render,gemini&theme=dark)
 
 **I'am learning:** <br>
-![Learn](https://go-skill-icons.vercel.app/api/icons?i=supabase,java&theme=dark)
+![Learn](https://go-skill-icons.vercel.app/api/icons?i=docker,java&theme=dark)
 
 **I want to learn:** <br>
-![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,ts,react,docker,aws,golang,html,js,css&theme=dark)
+![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,ts,react,supabase,aws,golang,html,js,css&theme=dark)
 
 **My coding time visualized:** <br>
 <a href="https://heatmap.shymike.dev?id=1103&timezone=Europe%2FBerlin&labels=true&ranges=100%2C30%2C10&standalone=true" title="Click to view detailed data for each day!">
