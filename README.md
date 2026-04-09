@@ -2,8 +2,6 @@
 ## My name is Tim Seufert
 
 - 🔭 I’m currently working on some personal projects -> Take a look at my Repos/Website...
-- 🌱 I’m currently learning Python, Java and Supabase
-- 💬 Ask me about anything 
 - 📫 How to reach me: https://timhongphuc.de or via HackClub Slack @Timhongphuc
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
@@ -18,6 +16,14 @@
 
 **I want to learn:** <br>
 ![Learn](https://go-skill-icons.vercel.app/api/icons?i=astro,ts,react,docker,aws,golang,html,js,css&theme=dark)
+
+**My coding time visualized:** <br>
+<a href="https://heatmap.shymike.dev?id=1103&timezone=Europe%2FBerlin&labels=true&ranges=100%2C30%2C10&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=1103&timezone=Europe%2FBerlin&labels=true&ranges=100%2C30%2C10&theme=catppuccin_dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=1103&timezone=Europe%2FBerlin&labels=true&ranges=100%2C30%2C10&theme=catppuccin_light">
+    </picture>
+</a>
 
 --------------------------------
 
