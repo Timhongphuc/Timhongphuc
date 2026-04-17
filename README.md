@@ -2,7 +2,7 @@
 ## My name is Tim Seufert
 
 - 🔭 I’m currently working on some personal projects -> Take a look at my Repos/Website...
-- 📫 How to reach me: https://timhongphuc.de or via HackClub Slack @Timhongphuc
+- 📫 How to reach me: https://timhongphuc.de, via HackClub Slack @Timhongphuc or @timhongphuc:matrix.org
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 --> Never leave the Terminal >_
