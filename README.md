@@ -25,7 +25,7 @@
     </picture>
 </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Timhongphuc&theme=tokyonight" alt="mystreak"/> <img src="https://developers.google.com/static/profile/badges/activity/idx/idx-user/badge.svg" alt="badge" width="100" style="vertical-align: middle;"/> <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="badge" width="100" style="vertical-align: middle;"/> <img src="https://developers.google.com/static/profile/badges/events/ai/gemini_api_competition/badge.svg" alt="badge" width="95" style="vertical-align: middle;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Timhongphuc&theme=tokyonight" alt="mystreak"/> <img src="https://developers.google.com/static/profile/badges/activity/idx/idx-user/badge.svg" alt="badge" width="100" style="vertical-align: middle;"/> <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="badge" width="100" style="vertical-align: middle;"/> <img src="https://developers.google.com/static/profile/badges/events/ai/gemini_api_competition/badge.svg" alt="badge" width="88" style="vertical-align: middle;"/>
 --------------------------------
 
 ### Stay curious. Never settle.
