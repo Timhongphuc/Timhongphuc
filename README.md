@@ -25,6 +25,8 @@
     </picture>
 </a>
 
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Timhongphuc&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
+
 --------------------------------
 
 ### Stay curious. Never settle.
