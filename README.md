@@ -9,7 +9,7 @@
 - My Principle (when it comes to shipping projects): "Quality > Quantity"
 
 **I'am using:** <br>
-![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,py,pycharm,swift,xcode,vscode,github,postman,obsidian,slack,vercel,render,gemini&theme=dark)
+![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,py,pycharm,swift,xcode,vscode,zed,github,postman,obsidian,slack,vercel,render,gemini&theme=dark)
 
 **I'am learning:** <br>
 ![Learn](https://go-skill-icons.vercel.app/api/icons?i=java,svelte,docker&theme=dark)
