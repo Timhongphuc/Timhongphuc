@@ -12,7 +12,7 @@
 ![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,py,pycharm,swift,xcode,vscode,zed,github,postman,obsidian,slack,vercel,render,gemini&theme=dark)
 
 **I'am learning:** <br>
-![Learn](https://go-skill-icons.vercel.app/api/icons?i=java,HTML,CSS,js,astro&theme=dark)
+![Learn](https://go-skill-icons.vercel.app/api/icons?i=java,html,css,js,astro&theme=dark)
 
 **I want to learn:** <br>
 ![Learn](https://go-skill-icons.vercel.app/api/icons?i=docker,svelte,ts,react,supabase,aws,golang&theme=dark)
