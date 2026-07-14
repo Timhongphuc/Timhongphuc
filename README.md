@@ -7,6 +7,7 @@
 - ⚡ Fun fact: 
 --> Never leave the Terminal >_
 - My Principle (when it comes to shipping projects): "Quality > Quantity"
+- I'm also publishing on [Substack](https://substack.com/@timhongphuc?r=8qyd2v&utm_campaign=profile&utm_medium=profile-page)
 
 **I'am using:** <br>
 ![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,py,pycharm,swift,xcode,zed,github,postman,obsidian,slack,vercel,render,gemini&theme=dark)
