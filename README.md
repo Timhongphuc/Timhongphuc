@@ -10,13 +10,13 @@
 - I'm also publishing on [Substack](https://substack.com/@timhongphuc?r=8qyd2v&utm_campaign=profile&utm_medium=profile-page)
 
 **I'am using:** <br>
-![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,py,pycharm,swift,xcode,zed,github,postman,obsidian,slack,vercel,render,gemini&theme=dark)
+![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,py,pycharm,swift,xcode,zed,github,postman,obsidian,slack,vercel,react,supabase&theme=dark)
 
 **I'am learning:** <br>
-![Learn](https://go-skill-icons.vercel.app/api/icons?i=java,react&theme=dark)
+![Learn](https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark)
 
 **I want to learn:** <br>
-![Learn](https://go-skill-icons.vercel.app/api/icons?i=docker,ts,supabase,aws,golang&theme=dark)
+![Learn](https://go-skill-icons.vercel.app/api/icons?i=docker,ts,aws,golang&theme=dark)
 
 **My coding time visualized:** <br>
 <a href="https://heatmap.shymike.dev?id=1103&timezone=Europe%2FBerlin&labels=true&ranges=100%2C30%2C10&standalone=true" title="Click to view detailed data for each day!">
