@@ -10,7 +10,7 @@
 - I'm also publishing on [Substack](https://substack.com/@timhongphuc?r=8qyd2v&utm_campaign=profile&utm_medium=profile-page)
 
 **I'am using:** <br>
-![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,py,pycharm,swift,xcode,zed,github,postman,obsidian,slack,vercel,react,supabase&theme=dark)
+![Using](https://go-skill-icons.vercel.app/api/icons?i=apple,py,pycharm,swift,xcode,zed,github,postman,slack,vercel,react,supabase&theme=dark)
 
 **I'am learning:** <br>
 ![Learn](https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark)
