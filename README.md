@@ -5,7 +5,7 @@
 - 📫 How to reach me: https://timhongphuc.de, via HackClub Slack @Timhongphuc or @timhongphuc:matrix.org
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
---> Never leave the Terminal >_
+--> I'm currently learning how to control my computer with nothing but the keyboard. 
 - My Principle (when it comes to shipping projects): "Quality > Quantity"
 - I'm also publishing on [Substack](https://substack.com/@timhongphuc?r=8qyd2v&utm_campaign=profile&utm_medium=profile-page)
 
